@@ -1,2 +1,2 @@
 # Glass-Detection
-We can dtect type of sunglass and and get similar recommended glass as output
+We can detect type of glasses and and get similar recommended glass as output
